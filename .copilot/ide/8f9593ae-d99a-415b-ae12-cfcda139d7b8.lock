@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-dac789ca-51f6-4407-b1d9-b5febfc57145.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce 5fb5c0d8-b6e8-4898-9472-932bb27f86d2"
+  },
+  "pid": 19296,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1775906906312,
+  "workspaceFolders": [
+    "c:\\Users\\victo\\OneDrive\\Ambiente de Trabalho\\eloa-baby-sapato-persona"
+  ],
+  "isTrusted": true
+}
