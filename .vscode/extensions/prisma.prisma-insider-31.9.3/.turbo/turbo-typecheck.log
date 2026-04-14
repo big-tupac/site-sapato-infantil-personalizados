@@ -1,0 +1,4 @@
+
+> prisma-insider@31.9.3 typecheck /home/runner/work/language-tools/language-tools/packages/vscode
+> tsc --noEmit
+
